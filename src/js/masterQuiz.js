@@ -204,7 +204,7 @@ function endGame() {
     // Add a delay to go back to the "nec selector" page after 5 seconds
     setTimeout(() => {
       // Redirect to the "wheel" page (replace 'wheel.html' with the actual URL)
-      window.location.href = "index.html";
+      window.location.href = "https://malik-13503.github.io/NP-Wheel-Sample/src/html/wheel.html";
       // window.location.href = "https://content.republictt.com/THIS-Conference-2024_.html";
     }, 5000); // 5000 milliseconds (5 seconds)
 
@@ -214,7 +214,7 @@ function endGame() {
     // Add a delay to go back to the "nec selector" page after 5 seconds
     setTimeout(() => {
       // Redirect to the "wheel" page (replace 'wheel.html' with the actual URL)
-      window.location.href = "index.html";
+      window.location.href = "https://malik-13503.github.io/NP-Wheel-Sample/src/html/wheel.html";
       // window.location.href = "https://content.republictt.com/THIS-Conference-2024_.html";
     }, 5000); // 5000 milliseconds (5 seconds)
   }
